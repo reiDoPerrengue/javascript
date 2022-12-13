@@ -38,7 +38,7 @@ function verificar(){
             img.setAttribute('src', 'idoso-f.jpg')
         }
     }else if (fsex[2].checked){
-        genero = 'uma YAG, gente! E ela está com'
+        genero = 'uma LGBTQueria+, gente! E ela está com'
         if(idade >=0 && idade <10) {
             //CRIANÇA
             img.setAttribute('src', 'bb-y.jpg')
