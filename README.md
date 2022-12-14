@@ -1,2 +1,2 @@
 # javascript
- curso curso em video por gustavo guanabara
+ curso do CursoemVideo por gustavo guanabara
